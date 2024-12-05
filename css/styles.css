@@ -26,6 +26,10 @@ button {
   cursor: pointer;
 }
 
+img {
+  display: block;
+}
+
 a {
   text-decoration: none;
   margin: 0;
